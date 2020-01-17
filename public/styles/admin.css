@@ -1,0 +1,40 @@
+h1, h2{
+    color:#473636;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.col-7{
+    border-right: 1px solid #d8d8d8;
+}
+#messageList{
+    list-style-type: none;
+    padding-left: 5px;
+}
+#messageList li{
+    margin: 10px 0;
+    background-color: #fafafa;
+    border: 1px solid #f0f0f0;
+    padding: 3px 8px;
+}
+#messageList li:hover{
+    border: 1px solid rgb(20, 119, 211);
+}
+label{
+    text-align: right;
+}
+.btn-container{
+text-align: center;
+}
+.hide{
+    display: none;
+}
+.item-saved{
+    background-color: rgb(140, 204, 138);
+    border: 1px solid rgb(121, 233, 99);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.item-saved h6{
+    color: #333;
+    text-align: center;
+}
